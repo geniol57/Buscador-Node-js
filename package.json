@@ -1,0 +1,25 @@
+{
+    "name": "buscardor-node",
+    "version": "1.0.0",
+    "description": "ejercicio de evaluación",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon ./server/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "Mariano Montenegro",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "devDependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "nodemon": "^1.14.11"
+    }
+}
